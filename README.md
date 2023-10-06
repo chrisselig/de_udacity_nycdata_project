@@ -19,3 +19,12 @@ Created an intermediate Azure SQL DB
 Created a Synapse Datawarehouse
 Created 6 dataflows to move data around and do some transformations
 Created 3 Pipelines to move the data from csv to Synapse
+
+## Data Modeling for Analytics
+The end result of this project is to provide payroll analytics information for NYC payroll data.
+
+To get there, a star schema was created. Below is the data model used for analytics
+
+![data model](https://github.com/chrisselig/de_udacity_nycdata_project/blob/main/01_images_for_readme/data_model.png)
+
+# Dashboard
