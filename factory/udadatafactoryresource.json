@@ -1,0 +1,9 @@
+{
+	"name": "udadatafactoryresource",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8eaa5a37-dc5d-470b-a53d-2517178bd812",
+		"tenantId": "9f107ea1-b9bf-4812-a3b9-ccdfe5e492e5"
+	}
+}
