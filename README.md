@@ -28,3 +28,6 @@ To get there, a star schema was created. Below is the data model used for analyt
 ![data model](https://github.com/chrisselig/de_udacity_nycdata_project/blob/main/01_images_for_readme/data_model.png)
 
 # Dashboard
+Below is the dashboard created from the data model
+
+![dashboard](https://github.com/chrisselig/de_udacity_nycdata_project/blob/main/dashboard.png)
